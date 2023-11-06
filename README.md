@@ -1,5 +1,6 @@
 # Parmar_Meet_Earbuds-Project-Responsive-Page
 
+THE IMAGES USED IN WEBSITE ARE EXPORTED FROM MOTION DESIGN CLASSES FILE AND ARE MADE IN PHOTOSHOP.
 GAMERNOTE EARBUDS
 
 "In this project, we delve into the realm of innovative audio technology by conceptualizing a cutting-edge pair of earbuds and their accompanying charging case. Using Cinema 4D, these concepts come alive as we meticulously model, texture, light, and animate our designs, preparing them for their spotlight on our promotional website. Beyond the base model, our design journey sees the creation of multiple color variants of the earbuds and an insightful X-ray view revealing the intricate internal components. For those seeking an immersive experience, we've also exported the 3D model for augmented reality (AR) use on our promotional platform. Here, users can engage with interactive hotspots or witness a mesmerizing animated exploded view of the earbuds. Dive into our README to explore the technical and creative process behind our avant-garde earbuds."
@@ -29,7 +30,7 @@ To install a GitHub repository, first clone it using 'git clone' with the reposi
 
 
 ## Credits
-MEET PARMAR & SHAURYA SALWAN
+MEET PARMAR 
 
 ## License
 MIT
